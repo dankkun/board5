@@ -7,7 +7,7 @@
           (
             MENU_ID,
             MENU_NAME,
-            MENU_SEQ 
+            MENU_SEQ     
           )
         VALUES (
             #{ menu_id   },
